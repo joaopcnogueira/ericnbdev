@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "models.random_forest.html",
+    "href": "models.random_forest.html",
+    "title": "Core",
+    "section": "",
+    "text": "soma\n\n soma (x, y)\n\n\n\n\nhello_world\n\n hello_world ()"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "EricNBDEV",
+    "section": "",
+    "text": "pip install ericnbdev"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "EricNBDEV",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\nfrom ericnbdev.core import soma\n\n\nsoma(3, 4)\n\n7"
+  }
+]
